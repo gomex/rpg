@@ -1,0 +1,4 @@
+baseURL = "https://gomex.github.io/rpg/"
+languageCode = "en-us"
+title = "Bem vindo ao mundo da fantasia"
+theme = "hugonews"
